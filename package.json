@@ -8,6 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "djreact-npm-demo": "^1.0.0",
+    "phaser": "^3.55.2",
     "vue": "^3.2.13",
     "vue-router": "^4.0.3"
   },
